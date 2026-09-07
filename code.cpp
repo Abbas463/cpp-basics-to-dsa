@@ -2,7 +2,8 @@
 using namespace std;
 
 int main () {
-    int age = 19;
-    cout << sizeof(age) << endl;
+    char grade = 'A';
+    cout << grade << endl;
+    cout << sizeof(grade) << endl;
     return 0;
 }
