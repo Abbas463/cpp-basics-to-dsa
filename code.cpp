@@ -2,9 +2,9 @@
 using namespace std;
 
 int main () {
-    float PI = 3.14f;
-    
-    cout << PI <<endl;
-    cout << sizeof(PI) <<endl;
+    bool isSafe = true;
+
+    cout << isSafe << endl; // true -> 1 false -> 0
+    cout << sizeof(isSafe) << endl;
     return 0;
 }
