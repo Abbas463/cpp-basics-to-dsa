@@ -2,9 +2,9 @@
 using namespace std;
 
 int main () {
-    int age;
-    cout << "Enter your age: ";
-    cin >> age;
-    cout << "You age is: " << age << endl;
+    int a = 5, b = 10;
+    int sum = a + b;
+
+    cout << sum <<endl;
     return 0;
 }
