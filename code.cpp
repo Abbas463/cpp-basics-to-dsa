@@ -2,9 +2,9 @@
 using namespace std;
 
 int main () {
-    double grade = 'A';
-    int value = grade;
+    double price = 10.99;
+    int newPrice = (int)price;
 
-    cout << value << endl;
+    cout << newPrice << endl;
     return 0;
 }
