@@ -2,9 +2,9 @@
 using namespace std;
 
 int main () {
-    double price = 10.99;
-    int newPrice = (int)price;
-
-    cout << newPrice << endl;
+    int age;
+    cout << "Enter your age: ";
+    cin >> age;
+    cout << "You age is: " << age << endl;
     return 0;
 }
