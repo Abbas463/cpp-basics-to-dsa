@@ -2,8 +2,9 @@
 using namespace std;
 
 int main () {
-    char grade = 'A';
-    cout << grade << endl;
-    cout << sizeof(grade) << endl;
+    float PI = 3.14f;
+    
+    cout << PI <<endl;
+    cout << sizeof(PI) <<endl;
     return 0;
 }
