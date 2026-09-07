@@ -2,9 +2,9 @@
 using namespace std;
 
 int main () {
-    bool isSafe = true;
-
-    cout << isSafe << endl; // true -> 1 false -> 0
-    cout << sizeof(isSafe) << endl;
+    double price = 99.99;
+    
+    cout << price << endl;
+    cout << sizeof(price) << endl;
     return 0;
 }
