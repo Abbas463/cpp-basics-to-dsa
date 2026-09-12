@@ -2,8 +2,7 @@
 using namespace std;
 
 int main () {
-    int a = 5, b = 10;
-
-    cout << (a + b) <<endl;
+    
+    cout << (3 < 5) << endl;
     return 0;
 }
